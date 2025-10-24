@@ -18,4 +18,5 @@
 bash
 
 pip install pyqt5 cryptography
+
 python zenithflow_cryptobot.py
