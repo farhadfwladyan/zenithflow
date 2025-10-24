@@ -16,5 +16,6 @@
 برای اجرای برنامه کافیست مراحل زیر را انجام دهید:
 
 bash
+
 pip install pyqt5 cryptography
 python zenithflow_cryptobot.py
